@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "4G6CNHW83Y.ar.com.globant.telecom.autogestion.qa",
+                "paths": [ "/mobile-telecom/*", "NOT /*"]
+            },
+            {
+                "appID": "4G6CNHW83Y.ar.com.globant.telecom.autogestion.dev",
+                "paths": [ "/mobile-telecom/*", "NOT /*"]
+            },
+            {
+                "appID": "4G6CNHW83Y.ar.com.globant.telecom.autogestion",
+                "paths": [ "/mobile-telecom/*", "NOT /*"]
+            }
+        ]
+    }
+}
